@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'acceptance_asset_accepted' => 'A user has accepted an item',
+    'acceptance_asset_accepted' => 'Użytkownik zaakceptował zasób',
     'acceptance_asset_declined' => 'Użytkownik odrzucił zasób',
     'a_user_canceled' => 'Użytkownik anulował zapotrzebowanie na sprzęt na stronie www',
     'a_user_requested' => 'Użytkownik zamówił pozycję na stronie internetowej',
@@ -45,7 +45,7 @@ return [
     'Low_Inventory_Report' => 'Raport niskiego stanu zasobów',
     'min_QTY' => 'Min. ilość',
     'name' => 'Nazwa',
-    'new_item_checked' => 'Nowy przedmiot przypisany do Ciebie został zwrócony, szczegóły poniżej.',
+    'new_item_checked' => 'Nowy przedmiot został przypisany do Ciebie, szczegóły poniżej.',
     'password' => 'Hasło:',
     'password_reset' => 'Resetowanie hasła',
 
